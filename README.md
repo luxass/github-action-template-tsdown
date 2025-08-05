@@ -1,4 +1,4 @@
-# github-action-template
+# github-action-template-tsdown
 
 An opinionated GitHub Actions Template using [tsdown](https://github.com/rolldown/tsdown) for bundling.
 
