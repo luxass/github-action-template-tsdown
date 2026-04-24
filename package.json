@@ -24,7 +24,7 @@
     "@types/node": "25.5.0",
     "eslint": "10.0.3",
     "tsdown": "0.21.2",
-    "typescript": "5.9.3",
+    "typescript": "6.0.3",
     "typescript-eslint": "8.57.0"
   },
   "pnpm": {
