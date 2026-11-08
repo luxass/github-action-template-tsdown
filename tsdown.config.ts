@@ -6,6 +6,7 @@ export default defineConfig({
   clean: true,
   dts: false,
   treeshake: true,
-  noExternal: ["@actions/core"],
-  skipNodeModulesBundle: false,
+  deps: {
+    alwaysBundle: ["@actions/core"],
+  },
 });
